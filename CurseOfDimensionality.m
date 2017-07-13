@@ -1,8 +1,7 @@
 %----------------------------------------------------------------------------------------------
-% SUID: 425325424                      Name: Jinkal Arvind Javia
-% CIS 787 - ADM                        HW #1: Question 3
+% Name: Jinkal Arvind Javia
 %----------------------------------------------------------------------------------------------
-function curse_of_dimensionality = HW1(n,d)
+function curse_of_dimensionality = CurseOfDimensionality(n,d)
 n_val = [];
 d_val = [];
 Euclidean_val = [];
